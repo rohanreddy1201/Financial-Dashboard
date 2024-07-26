@@ -1,4 +1,4 @@
-# 3D Financial Data Analysis Dashboard
+# Financial Data Analysis Dashboard
 
 ## Introduction
 
