@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The 3D Financial Data Analysis Dashboard is a comprehensive tool designed to provide users with insightful visualizations and analyses of stock market data. Built using Streamlit and Vertex AI, this dashboard allows users to fetch financial data, visualize it through various interactive plots, and interact with an AI chatbot for detailed insights and predictions.
+The Financial Data Analysis Dashboard is a comprehensive tool designed to provide users with insightful visualizations and analyses of stock market data. Built using Streamlit and Vertex AI, this dashboard allows users to fetch financial data, visualize it through various interactive plots, and interact with an AI chatbot for detailed insights and predictions.
 
 ## Project Outline
 
