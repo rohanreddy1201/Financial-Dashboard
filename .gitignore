@@ -1,0 +1,25 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode settings
+.vscode/
+.vs/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# GCP credentials
+authenticate.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
