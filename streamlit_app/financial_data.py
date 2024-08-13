@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 
-API_KEY = '83SVVP62WBECS4JW'
+API_KEY = 'KX7MQQ4T54PKH314'
 
 def get_stock_symbols():
     # Static list of popular stock symbols
